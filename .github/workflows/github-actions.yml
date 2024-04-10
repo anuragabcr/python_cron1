@@ -1,6 +1,7 @@
 name: Run Python Script
 
 on:
+    push:
     schedule:
       - cron: "* * * * *"
 
