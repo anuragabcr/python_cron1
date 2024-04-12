@@ -1,8 +1,7 @@
 name: Run Python Script
 
 on:
-  workflow_dispatch:
-    # push: 
+    push: 
     # schedule:
     #   - cron: "*/5 * * * *"
 
